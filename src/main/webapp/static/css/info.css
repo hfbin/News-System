@@ -1,0 +1,28 @@
+body {
+    margin: 0 auto;
+    font-size: 14px;
+    position: relative;
+}
+body, header {
+    min-width: 320px;
+    max-width: 540px;
+}
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Microsoft yahei';
+}
+
+.title{
+	font-size: 17px;
+    font-weight: bold ;
+    padding: 10px;
+}
+
+.content{
+    padding: 10px;
+	font-size: 13px;
+}
+.replay{
+	font-size: 14px;
+}

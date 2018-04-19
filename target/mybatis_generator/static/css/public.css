@@ -1,0 +1,65 @@
+.top_content{
+    height: 40px;
+    width: 100%;
+    border-left: solid 6px #008200;
+    margin-bottom: 8px;
+
+}
+.top_content p{
+    height: 100%;
+    width: 100%;
+    line-height: 40px;
+    display: block;
+    margin-left: 18px;
+    font-size: 17px;
+}
+
+.blogs_fabu_reset_content , .blogs_fabu_submit_content{
+    float: right;
+    margin: 10px 20px 0 0;
+    height: 30px;
+    width: 80px;
+    background-color:#eae6e6;
+    border: none;
+
+}
+.blogs_from_div{
+    width: 100%;
+    height: 26px;
+    padding: 4px 0 4px 0;
+}
+.blogs_from_div .blogs_from_p{
+    width:auto;
+    font-size:13px;
+    line-height: 26px;
+}
+.blogs_from_div .blogs_i{
+    width: 400px;
+}
+.blogs_from_div .blogs_from_p , .blogs_from_div .blogs_i{
+    float: left;
+    height: 100%;
+}
+.blogs_from_div select option{
+    padding: 5px 0 5px 0;
+}
+
+
+#emps_table tr td{
+    font-size: 15px;
+    font-weight: normal;
+    height: 80px;
+    text-overflow:ellipsis;
+    white-space:nowrap;
+    overflow:hidden;
+
+}
+#emps_table tr td .tiale_imag{
+    height: 120px;
+}
+#emps_table tr td img , #emps_table tr .blogsContent{
+    height: 120px;
+}
+#emps_table tr .blogsContent{
+    width:300px;
+}
